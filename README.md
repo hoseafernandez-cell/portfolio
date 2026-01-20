@@ -33,6 +33,13 @@ Automation Specialist with **4+ years of experience** designing and managing com
 * **The Result:** Reduced manual handling time and ensured 100% data accuracy in performance scorecards.
     <img width="785" height="501" alt="GoHighLevel Booking Automation Workflow" src="https://github.com/user-attachments/assets/86ad045e-b8b4-429b-a4b1-a5dd9cd21f96" />
 
+#### [Revenue Recovery & Lead Nurture System](link-to-repo)
+* **The Problem:** High drop-off rates during the booking process and "cold" cart abandonment.
+* **The Solution:** Built a multi-step nurture sequence in GoHighLevel that triggers when a prospect starts a booking but doesn't finish.
+* **Key Logic:** Includes time-delay "Wait" steps, conditional branching based on lead tags, and automated "Hot Prospect" alerts for the sales team.
+* **The Result:** Captured missed revenue by re-engaging prospects within the first 60 minutes of abandonment.
+    <img width="815" height="508" alt="ghl-abandonment-logic.png" src="https://github.com/user-attachments/assets/b1f07dd0-7983-4f67-bd21-e9973158046a" />
+
 ---
 
 ### My Operational Process
