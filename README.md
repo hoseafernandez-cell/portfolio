@@ -12,7 +12,7 @@ Automation Specialist with **4+ years of experience** designing and managing com
 
 ### Tech Stack & Expertise
 
-* **CRM & Automation:** GoHighLevel (Expert), Kajabi, Keap, ActiveCampaign, Mailchimp
+* **CRM & Automation:** GoHighLevel (Expert), Kajabi, Keap, ActiveCampaign
 * **Integrations:** Zapier & Third-Party API Connections
 * **Project & Operations:** Monday.com, Asana, Basecamp, Slack, Google Workspace
 * **Marketing Logic:** Funnel Building, Trigger-based Email Sequences, Lead Capture
