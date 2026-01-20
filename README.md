@@ -1,6 +1,7 @@
 # Automation Specialist | Hosea Lean Fernandez
 
 **CRM & Workflow Systems Expert**
+
 *Helping businesses scale through efficient, automated systems and operational excellence.*
 
 ---
