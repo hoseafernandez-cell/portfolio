@@ -26,13 +26,12 @@ Automation Specialist with **4+ years of experience** designing and managing com
 * **The Problem:** Repetitive manual tasks for scheduling and high no-show rates.
 * **The Solution:** Built a streamlined booking workflow using GoHighLevel with automated calendar scheduling, confirmations, and reminders.
 * **The Result:** Significantly improved client attendance and response efficiency.
-  <img width="785" height="501" alt="Workflow Screenshot 021" src="https://github.com/user-attachments/assets/86ad045e-b8b4-429b-a4b1-a5dd9cd21f96" />
-
 
 #### [Enterprise Lead Intake System]
 * **The Problem:** Manual handling of lead intake and post-call workflows.
 * **The Solution:** Designed automated triggers for lead capture, appointment scheduling, and tagging systems across multiple platforms.
 * **The Result:** Reduced manual handling time and ensured 100% data accuracy in performance scorecards.
+    <img width="785" height="501" alt="GoHighLevel Booking Automation Workflow" src="https://github.com/user-attachments/assets/86ad045e-b8b4-429b-a4b1-a5dd9cd21f96" />
 
 ---
 
