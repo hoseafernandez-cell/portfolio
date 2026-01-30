@@ -51,7 +51,7 @@ Automation Specialist with **4+ years of experience** designing and managing com
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 * **Email:** hoseafernandez@gmail.com 
 * **Location:** Davao City, Philippines 
 * **Contact:** +639755982295 
